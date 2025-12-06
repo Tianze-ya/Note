@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "img/note",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "readableLineLength": true,
+  "vimMode": false,
+  "spellcheck": false,
+  "strictLineBreaks": false
+}

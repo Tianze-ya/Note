@@ -1,0 +1,5 @@
+/* 调整编辑模式和阅读模式的文本行宽 */
+.markdown-source-view, .markdown-preview-view {
+    max-width: 1000px;
+    margin: 0 auto; /* 居中显示 */
+}

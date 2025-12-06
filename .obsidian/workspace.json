@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "749c1d57406fac9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "649fbe59e16f7700",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b7dab1ddcb99349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/app/scoop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "scoop"
+            }
+          },
+          {
+            "id": "d516711512b296c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/app/powershell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "powershell"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79b39861c6076138",
+    "type": "split",
+    "children": [
+      {
+        "id": "b06082c7b4bfdec0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6de84b9541a101c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "4b0174209b21ef4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d7b7d8d8e0cf258a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "ea81d81224a4547e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5521712676d43760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1a06fbdf0090b8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/app/gostty.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "gostty 的反向链接列表"
+            }
+          },
+          {
+            "id": "e389b004f3ad82a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/app/wezterm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "wezterm 的出链列表"
+            }
+          },
+          {
+            "id": "adec4f92be5410e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8d6da2045d1d17ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/app/wezterm.md"
+              },
+              "icon": "lucide-list",
+              "title": "wezterm 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": true,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": true
+    }
+  },
+  "active": "d516711512b296c8",
+  "lastOpenFiles": [
+    "_posts/app/ranger.md",
+    "_posts/app/scoop.md",
+    "_posts/app/tmux.md",
+    "_posts/app/powershell.md",
+    "2025-12-06.md",
+    "_posts/app/kitty.md",
+    "_posts/app/clang-format.md",
+    "_posts/app/Atest.md",
+    "_posts/app/neovim.md",
+    "_posts/app/vim.md",
+    "TODO.md",
+    "Template/Hexo_posts.md",
+    "_posts/app/yazi.md",
+    "_posts/system/linux/kali/kali-config-02.md",
+    "_posts/system/linux/kali/kali-config-01.md",
+    "_posts/system/linux/kali/kali-config-00.md",
+    "_posts/network/W1R3S-v1.0.1.md",
+    "_posts/network/nmap.md",
+    "_posts/network/DNS.md",
+    "_posts/network/CMCCAdmin.md",
+    "_posts/network/ascii.md",
+    "_posts/code/cpp/最值.md",
+    "_posts/code/cpp/四舍五入.md",
+    "2024-08-15.md",
+    "_posts/app/brew.md",
+    "_posts/code/cpp/冒泡排序.md",
+    "img/cover/cpp.jpg",
+    "img/cover/brew.jpg",
+    "img/cover/vim.jpg",
+    "img/cover/neovim.png",
+    "img/cover",
+    "img/note/system/linux/kali/ssh-keygen.png",
+    "img/note/network/W1R3S/W1R3S-05.png",
+    "img/note/network/W1R3S/W1R3S-04.png",
+    "img/note/network/W1R3S/W1R3S-03.png",
+    "img/note/network/W1R3S/W1R3S-02.png",
+    "img/note/network/W1R3S/W1R3S-01.png",
+    "未命名.base",
+    "未命名 2.base",
+    "未命名 1.base",
+    "_posts/code/cpp",
+    "_posts/code/新建文件夹",
+    "_posts/md",
+    "未命名",
+    "img/note/app/ranger",
+    "_posts/app/vim_nvim",
+    "未命名.canvas"
+  ]
+}
