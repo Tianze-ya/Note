@@ -27,3 +27,6 @@ scoop install abyss/sigoden.Argc-completions
 ```
 Import-Module PSCompletions
 ```
+
+
+### 巧思
