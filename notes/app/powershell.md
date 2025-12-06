@@ -26,7 +26,4 @@ scoop install abyss/sigoden.Argc-completions
 配置文件中添加
 ```
 Import-Module PSCompletions
-
-$argc_scripts = $env:ARGC_COMPLETIONS_PATH -split ';' | Get-ChildItem -File | ForEach-Object { $_.BaseName }
-$PSCompletions.argc_completions($argc_scripts)
 ```

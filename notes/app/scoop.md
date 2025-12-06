@@ -30,4 +30,6 @@ scoop install aria2
 取消下载时的警告
 ```bash
 scoop config aria2-warning-enabled false
+Add-Content $PROFILE '$env:PATH += ";C:\Users\tianze\scoop\shims"'
 ```
+
