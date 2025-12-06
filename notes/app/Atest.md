@@ -27,9 +27,7 @@ cover:
 > 12345234
 > 1234434
 
- [!note]
-  sdv
-  
+
 ## 代码相关
 
 行内代码：`const example = "Hello World";` 和 `function() { return true; }`
