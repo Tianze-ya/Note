@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "notes/app/powershell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "powershell"
             }
           }
         ]
@@ -169,6 +169,7 @@
   },
   "active": "4b7dab1ddcb99349",
   "lastOpenFiles": [
+    "TODO.md",
     "README.md",
     "notes/app/powershell.md",
     "notes/app/scoop.md",
@@ -183,7 +184,6 @@
     "_posts/app/Atest.md",
     "_posts/app/neovim.md",
     "_posts/app/vim.md",
-    "TODO.md",
     "Template/Hexo_posts.md",
     "_posts/app/yazi.md",
     "_posts/system/linux/kali/kali-config-02.md",

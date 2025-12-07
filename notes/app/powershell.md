@@ -16,6 +16,12 @@ winget install --id Microsoft.PowerShell --source winget
 ```
 配置文件`$PROFILE`
 
+# 配置
+```
+
+```
+
+
 # 模块 
 ## PSCompletions
 ```bash
