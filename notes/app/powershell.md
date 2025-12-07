@@ -17,8 +17,118 @@ winget install --id Microsoft.PowerShell --source winget
 配置文件`$PROFILE`
 
 # 配置
-```
-
+`settings.json`
+```json
+{
+    "$help": "https://aka.ms/terminal-documentation",
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "actions": 
+    [
+        {
+            "command": 
+            {
+                "action": "copy",
+                "singleLine": false
+            },
+            "id": "User.copy.644BA8F2"
+        },
+        {
+            "command": "paste",
+            "id": "User.paste"
+        },
+        {
+            "command": 
+            {
+                "action": "splitPane",
+                "split": "auto",
+                "splitMode": "duplicate"
+            },
+            "id": "User.splitPane.A6751878"
+        },
+        {
+            "command": "find",
+            "id": "User.find"
+        }
+    ],
+    "alwaysShowNotificationIcon": false,
+    "copyFormatting": "none",
+    "copyOnSelect": true,
+    "defaultInputScope": "alphanumericHalfWidth",
+    "defaultProfile": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+    "experimental.detectURLs": true,
+    "focusFollowMouse": false,
+    "initialCols": 80,
+    "initialRows": 20,
+    "keybindings": 
+    [
+        {
+            "id": "User.copy.644BA8F2",
+            "keys": "ctrl+c"
+        },
+        {
+            "id": "User.find",
+            "keys": "ctrl+shift+f"
+        },
+        {
+            "id": "User.paste",
+            "keys": "ctrl+v"
+        },
+        {
+            "id": "User.splitPane.A6751878",
+            "keys": "alt+shift+d"
+        }
+    ],
+    "newTabMenu": 
+    [
+        {
+            "type": "remainingProfiles"
+        }
+    ],
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "backgroundImage": "E:/mine/photo/background/20221005201441886.jpg",
+            "backgroundImageOpacity": 0.5,
+            "colorScheme": "One Half Dark",
+            "experimental.retroTerminalEffect": false,
+            "font": 
+            {
+                "face": "Maple Mono NL NF CN",
+                "size": 15,
+                "weight": "semi-light"
+            },
+            "opacity": 20,
+            "padding": "8",
+            "suppressApplicationTitle": true,
+            "useAcrylic": true
+        },
+        "list": 
+        [
+            {
+                "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+                "hidden": false,
+                "name": "PowerShell",
+                "source": "Windows.Terminal.PowershellCore",
+                "startingDirectory": "E:\\workspace"
+            },
+            {
+                "commandline": "%SystemRoot%\\System32\\cmd.exe",
+                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+                "hidden": false,
+                "name": "Commnd",
+                "startingDirectory": "E:\\workspace"
+            }
+        ]
+    },
+    "schemes": [],
+    "showTabsInTitlebar": true,
+    "showTerminalTitleInTitlebar": true,
+    "tabWidthMode": "equal",
+    "themes": [],
+    "useAcrylicInTabRow": true,
+    "windowingBehavior": "useAnyExisting"
+}
 ```
 
 
