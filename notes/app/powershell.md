@@ -132,6 +132,12 @@ winget install --id Microsoft.PowerShell --source winget
 ```
 
 
+
+# on-my-posh
+```bash
+winget install JanDeDobbeleer.OhMyPosh --source winget
+```
+
 # 模块 
 ## PSCompletions
 ```bash
