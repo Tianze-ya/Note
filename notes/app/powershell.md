@@ -133,11 +133,19 @@ winget install --id Microsoft.PowerShell --source winget
 
 
 
-# on-my-posh
+# oh-my-posh
+[Home | Oh My Posh](https://ohmyposh.dev/)
 ```bash
 winget install JanDeDobbeleer.OhMyPosh --source winget
 ```
 
+
+配置文件中添加
+```
+oh-my-posh init pwsh | Invoke-Expression
+```
+
+*推荐主题：powerlevel10k_rainbow*
 # 模块 
 ## PSCompletions
 ```bash
