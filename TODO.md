@@ -17,5 +17,3 @@ Zen Browser
 QQRobot cd/ci
 vercel cloudflare
 river QR sen email
-
-pws7 coinfi
