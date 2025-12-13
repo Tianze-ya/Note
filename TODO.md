@@ -15,9 +15,6 @@ config to md --py
 
 # Zen Browser
 
-QQRobot cd/ci
-river QR sen email
-
 Tui框架
 前端应用
 # 我的世界服务器 整合包 MCSL2  frp Debain  耗电
