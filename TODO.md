@@ -16,7 +16,6 @@ config to md --py
 # Zen Browser
 
 QQRobot cd/ci
-vercel cloudflare neon
 river QR sen email
 
 Tui框架
