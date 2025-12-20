@@ -4,6 +4,7 @@ emac
 nvim config
 
 python socket ws
+pyside2 electron
 
 # blog
 [博客维护公告](https://blog.blueke.top/posts/644641/)
