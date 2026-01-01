@@ -3,9 +3,6 @@ dwm
 emac
 nvim config
 
-python socket ws
-pyside2 electron
-
 # blog
 [博客维护公告](https://blog.blueke.top/posts/644641/)
 [Halo - 强大易用的开源建站工具](https://www.halo.run/)
@@ -17,3 +14,4 @@ config to md --py
 # Zen Browser
 
 # 我的世界服务器 整合包 MCSL2  frp Debain  耗电
+
