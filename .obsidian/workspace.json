@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "README 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "README 1"
             }
           }
         ]
@@ -170,6 +170,7 @@
   "active": "4b7dab1ddcb99349",
   "lastOpenFiles": [
     "README.md",
+    "README 1.md",
     "TODO.md",
     "notes/app/powershell.md",
     "notes/app/scoop.md",
@@ -194,7 +195,6 @@
     "_posts/network/DNS.md",
     "_posts/network/CMCCAdmin.md",
     "_posts/network/ascii.md",
-    "_posts/code/cpp/最值.md",
     "img/cover/cpp.jpg",
     "img/cover/brew.jpg",
     "img/cover/vim.jpg",
