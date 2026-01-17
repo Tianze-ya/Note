@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
-          },
-          {
-            "id": "af2c709171eab097",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +167,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af2c709171eab097",
+  "active": "4b7dab1ddcb99349",
   "lastOpenFiles": [
     "IMG_20260101_171012.jpg",
     "README 1.md",
