@@ -10,6 +10,7 @@ nvim config
 git clone note
 config to md --py
 # tac 后台
+py做后台 websocket通信 node做前端
 
 # Zen Browser
 
