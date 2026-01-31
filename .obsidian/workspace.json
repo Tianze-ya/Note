@@ -11,14 +11,12 @@
             "id": "4b7dab1ddcb99349",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false
+                "file": "IMG_20260101_171012.jpg"
               },
-              "icon": "lucide-file",
-              "title": "TODO"
+              "icon": "lucide-image",
+              "title": "IMG_20260101_171012"
             }
           }
         ]
@@ -169,10 +167,10 @@
   },
   "active": "4b7dab1ddcb99349",
   "lastOpenFiles": [
-    "IMG_20260101_171012.jpg",
-    "README 1.md",
     "file_1764389491033_198.png",
+    "IMG_20260101_171012.jpg",
     "TODO.md",
+    "README 1.md",
     "README.md",
     "notes/app/powershell.md",
     "notes/app/scoop.md",
@@ -205,7 +203,6 @@
     "img/note/network/W1R3S/W1R3S-05.png",
     "img/note/network/W1R3S/W1R3S-04.png",
     "img/note/network/W1R3S/W1R3S-03.png",
-    "img/note/network/W1R3S/W1R3S-02.png",
     "未命名.base",
     "未命名 2.base",
     "未命名 1.base",

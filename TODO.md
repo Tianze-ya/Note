@@ -15,4 +15,4 @@ config to md --py
 
 # 我的世界服务器 整合包 MCSL2  frp Debain  
 
-![](file_1764389491033_198.png)![](IMG_20260101_171012.jpg)
+![](IMG_20260101_171012.jpg)
