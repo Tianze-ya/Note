@@ -11,12 +11,14 @@
             "id": "4b7dab1ddcb99349",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMG_20260101_171012.jpg"
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "IMG_20260101_171012"
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ]
@@ -167,8 +169,8 @@
   },
   "active": "4b7dab1ddcb99349",
   "lastOpenFiles": [
-    "file_1764389491033_198.png",
     "IMG_20260101_171012.jpg",
+    "file_1764389491033_198.png",
     "TODO.md",
     "README 1.md",
     "README.md",
