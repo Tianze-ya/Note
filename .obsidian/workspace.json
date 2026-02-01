@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "notes/dev/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "未命名"
             }
           }
         ]
@@ -169,14 +169,24 @@
   },
   "active": "4b7dab1ddcb99349",
   "lastOpenFiles": [
-    "IMG_20260101_171012.jpg",
     "TODO.md",
-    "file_1764389491033_198.png",
+    "notes/dev/未命名.md",
+    "notes/dev",
+    "Template/Hexo_posts.md",
+    "notes/app/wezterm.md",
+    "notes/app/ssh.md",
+    "notes/app/nerd-font.md",
+    "notes/app/git.md",
+    "notes/app/fastfetch.md",
+    "notes/app/brew.md",
+    "notes/app/bash.md",
+    "notes/app/Atest.md",
     "README 1.md",
     "README.md",
+    "IMG_20260101_171012.jpg",
+    "file_1764389491033_198.png",
     "notes/app/powershell.md",
     "notes/app/scoop.md",
-    "notes/app/Atest.md",
     "_posts/app/ranger.md",
     "_posts/app/scoop.md",
     "_posts/app/tmux.md",
@@ -187,15 +197,7 @@
     "_posts/app/Atest.md",
     "_posts/app/neovim.md",
     "_posts/app/vim.md",
-    "Template/Hexo_posts.md",
     "_posts/app/yazi.md",
-    "_posts/system/linux/kali/kali-config-02.md",
-    "_posts/system/linux/kali/kali-config-01.md",
-    "_posts/system/linux/kali/kali-config-00.md",
-    "_posts/network/W1R3S-v1.0.1.md",
-    "_posts/network/nmap.md",
-    "_posts/network/DNS.md",
-    "_posts/network/CMCCAdmin.md",
     "img/cover/cpp.jpg",
     "img/cover/brew.jpg",
     "img/cover/vim.jpg",
@@ -213,7 +215,6 @@
     "_posts/md",
     "未命名",
     "img/note/app/ranger",
-    "_posts/app/vim_nvim",
     "未命名.canvas"
   ]
 }
