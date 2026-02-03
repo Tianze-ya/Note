@@ -4,6 +4,7 @@ published: 2024-11-17
 description:
 image: ./cover.jpg
 tags:
+  - Linux
 category:
 draft: false
 pinned: false
