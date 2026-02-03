@@ -167,8 +167,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b7dab1ddcb99349",
+  "active": "a6de84b9541a101c",
   "lastOpenFiles": [
+    "images/albums/background/info.json",
+    "images/albums/background/新建 文本文档.txt",
+    "images/albums/background",
     "spec/about.md",
     "TODO.md",
     "READMETemple.md",
@@ -200,7 +203,6 @@
     "posts/wezterm.md",
     "posts/git/git-01.png",
     "posts/cpp/常用函数.md",
-    "posts/cpp/冒泡排序.md",
     "posts/ascii/ascii.png",
     "posts/ascii",
     "images/albums",
@@ -213,8 +215,6 @@
     "img/cover/cpp.jpg",
     "img/cover",
     "未命名.base",
-    "未命名 2.base",
-    "未命名 1.base",
     "未命名.canvas"
   ]
 }
