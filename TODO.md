@@ -8,7 +8,7 @@ nvim config
 [Halo - 强大易用的开源建站工具](https://www.halo.run/)
 [博客框架迁移 - Zero](https://vtdd.vip/posts/%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6%E8%BF%81%E7%A7%BB/)
 git clone note
-config to md --py
+app config to md --py
 # tac 后台
 py做后台 websocket通信 node做前端
 
