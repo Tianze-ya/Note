@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/fastfetch.md",
+                "file": "posts/未命名.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "fastfetch"
+              "title": "未命名"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "f36eb2ff03eeca98",
   "lastOpenFiles": [
+    "posts/fastfetch.md",
+    "posts/未命名.md",
     "posts/kitty.md",
     "posts/fzf.md",
     "posts/kali-config-01.md",
@@ -199,13 +201,11 @@
     "posts/kali-config-02.md",
     "posts/kali-config-00.md",
     "posts/gostty.md",
-    "posts/fastfetch.md",
     "posts/DNS.md",
     "posts/CMCCAdmin.md",
     "posts/clang-format.md",
     "posts/brew.md",
     "posts/bash.md",
-    "posts/auto_run.md",
     "posts/ascii/ascii.png",
     "posts/ascii/未命名.base",
     "spec/未命名.base",
