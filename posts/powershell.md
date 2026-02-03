@@ -1,6 +1,6 @@
 ---
 title: PowerShell7的配置
-published: "{date}"
+published: 2025-12-06
 description:
 image: ./cover.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Vim教程
-published: "{date}"
+published: 2024-08-08
 description:
 image: ./cover.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 开机自启
-published: "{{date}}"
+published: 2023-4-12
 description:
 image: ./cover.jpg
 tags:

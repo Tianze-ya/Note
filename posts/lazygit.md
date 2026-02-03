@@ -1,6 +1,6 @@
 ---
 title: lazygit
-published: "{date}"
+published: 2024-11-30
 description:
 image: ./cover.jpg
 tags:

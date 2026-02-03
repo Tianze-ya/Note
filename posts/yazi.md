@@ -1,6 +1,6 @@
 ---
 title: yazi
-published: "{date}"
+published: 2024-12-21
 description:
 image: ./cover.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Bash
-published: "{{date}}"
+published: 2025-04-04
 description:
 image: ./cover.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Gostty
-published: "{date}"
+published: 2025-03-28
 description:
 image: ./cover.jpg
 tags:

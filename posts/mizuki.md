@@ -1,6 +1,6 @@
 ---
 title: Mizuki
-published: "{date}"
+published: 2026-02-01
 description:
 image: ./cover.jpg
 tags:

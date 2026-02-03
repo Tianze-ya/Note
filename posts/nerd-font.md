@@ -1,6 +1,6 @@
 ---
 title: Nerd Font
-published: "{date}"
+published: 2024-11-17
 description:
 image: ./cover.jpg
 tags:

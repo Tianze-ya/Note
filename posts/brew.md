@@ -1,6 +1,6 @@
 ---
 title: Homebrew
-published: "{date}"
+published: 2025-03-16
 description:
 image: ./cover.jpg
 tags:

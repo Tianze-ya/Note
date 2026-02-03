@@ -1,6 +1,6 @@
 ---
 title: fzf
-published: "{date}"
+published: 2024-12-09
 description:
 image: ./cover.jpg
 tags:

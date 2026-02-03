@@ -1,6 +1,6 @@
 ---
 title: Neofetch的可替代品给fastfetch
-published: "{date}"
+published: 2025-03-28
 description:
 image: ./cover.jpg
 tags:

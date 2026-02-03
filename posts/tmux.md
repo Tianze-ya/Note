@@ -1,6 +1,6 @@
 ---
 title: Tmux
-published: "{date}"
+published: 2024-06-22
 description:
 image: ./cover.jpg
 tags:

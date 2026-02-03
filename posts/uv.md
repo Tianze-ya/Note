@@ -1,6 +1,6 @@
 ---
 title: 高效管理python的工具uv
-published: "{date}"
+published: 2025-08-11
 description:
 image: ./cover.jpg
 tags:

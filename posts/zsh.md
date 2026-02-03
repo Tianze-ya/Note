@@ -1,6 +1,6 @@
 ---
 title: Zsh
-published: "{date}"
+published: 2024-08-11
 description:
 image: ./cover.jpg
 tags:

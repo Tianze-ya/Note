@@ -1,6 +1,6 @@
 ---
 title: Nvim
-published: "{date}"
+published: 2024-08-15
 description:
 image: ./cover.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: clang-format
-published: "{date}"
+published: 2025-08-14
 description:
 image: ./cover.jpg
 tags:

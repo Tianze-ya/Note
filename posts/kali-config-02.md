@@ -1,6 +1,6 @@
 ---
 title: 配置Kali-02
-published: "{date}"
+published: 2024-08-04
 description:
 image: ./cover.jpg
 tags:
