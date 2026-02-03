@@ -1,10 +1,11 @@
 ---
 title: ASCII码
 published: 2025-07-21
-description:
+description: ASCII表
 image: ./cover.jpg
 tags:
-category:
+  - 编程
+category: 教程
 draft: false
 pinned: false
 lang: zh-CN

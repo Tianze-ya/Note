@@ -4,7 +4,8 @@ published: 2024-08-07
 description:
 image: ./cover.jpg
 tags:
-category:
+  - 工具
+category: 软件
 draft: false
 pinned: false
 lang: zh-CN

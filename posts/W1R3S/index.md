@@ -4,7 +4,8 @@ published: "\r2024-06-29"
 description:
 image: ./cover.jpg
 tags:
-category:
+  - 网络
+category: 靶场
 draft: false
 pinned: false
 lang: zh-CN
