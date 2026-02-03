@@ -1,6 +1,6 @@
 ---
 title: Git 导航
-published: 24-08-04
+published: 2024-08-04
 description:
 image: ./cover.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: SSH
-published: 24-08-07
+published: 2024-08-07
 description:
 image: ./cover.jpg
 tags:

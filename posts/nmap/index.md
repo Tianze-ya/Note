@@ -1,6 +1,6 @@
 ---
 title: Nmap
-published: 24-06-09
+published: 2024-06-09
 description:
 image: ./cover.jpg
 tags:
