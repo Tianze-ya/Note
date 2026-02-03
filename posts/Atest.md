@@ -1,6 +1,6 @@
 ---
 title: test
-published: "{{date}}"
+published: 2025-08-21
 description:
 image: ./cover.jpg
 tags:
