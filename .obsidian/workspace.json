@@ -167,8 +167,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6de84b9541a101c",
+  "active": "4b7dab1ddcb99349",
   "lastOpenFiles": [
+    "images/albums/background/20221005201441886.jpg",
+    "images/albums/background/139991671_p1_master1200.jpg",
+    "images/albums/background/139991671_p0_master1200.jpg",
+    "images/albums/background/139878491_p2_master1200.jpg",
     "images/albums/background/info.json",
     "images/albums/background/新建 文本文档.txt",
     "images/albums/background",
@@ -210,11 +214,7 @@
     "spec",
     "posts",
     "notes/dev",
-    "IMG_20260101_171012.jpg",
-    "file_1764389491033_198.png",
-    "img/cover/cpp.jpg",
     "img/cover",
-    "未命名.base",
     "未命名.canvas"
   ]
 }
