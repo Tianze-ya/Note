@@ -8,7 +8,7 @@ cover:
 ---
 # 一、简介
  ***一款分布式版本控制系统软件***
-**创始人就是我们伟大的Linux之父 林纳斯·本纳第克特·托瓦兹（Linus Benedict Torvalds）**
+**创始人-伟大的Linux之父 林纳斯·本纳第克特·托瓦兹（Linus Benedict Torvalds）**
 **`Git 的出现高效的解决了团队开发中代码难同步的问题`**
 
 # 二、下载

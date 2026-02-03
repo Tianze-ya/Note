@@ -11,12 +11,14 @@
             "id": "4b7dab1ddcb99349",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "posts/kali/ssh-keygen.png"
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "ssh-keygen"
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/app/gostty.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "gostty 的反向链接列表"
+              "title": "TODO 的反向链接列表"
             }
           },
           {
@@ -165,46 +167,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6de84b9541a101c",
+  "active": "4b7dab1ddcb99349",
   "lastOpenFiles": [
+    "READMETemple.md",
+    "posts/W1R3S/index.md",
+    "posts/ranger/index.md",
+    "posts/ranger/scope.png",
+    "posts/ssh/index.md",
+    "posts/ssh/ssh-keygen.png",
+    "posts/git/index.md",
+    "posts/git/git-02.png",
+    "posts/yazi.md",
+    "posts/zsh.md",
+    "posts/tmux.md",
+    "posts/uv.md",
+    "posts/ruff.md",
+    "posts/scoop.md",
+    "posts/powershell.md",
+    "posts/nerd-font.md",
+    "posts/neovim.md",
+    "posts/mizuki.md",
+    "posts/lazygit.md",
     "posts/kali-config-01.md",
     "posts/kali-config-00.md",
-    "posts/kali/ssh-keygen.png",
     "posts/kali-config-02.md",
     "posts/nmap/index.md",
     "posts/nmap/nmap-01.png",
     "posts/auto_run.md",
-    "posts/ranger/ranger.md",
     "posts/ranger/rifle.png",
-    "posts/ranger/scope.png",
-    "posts/W1R3S/W1R3S-v1.0.1.md",
     "posts/wezterm.md",
-    "posts/git/index.md",
     "posts/git/git-01.png",
-    "posts/git/git-02.png",
     "posts/cpp/常用函数.md",
     "posts/cpp/冒泡排序.md",
     "posts/cpp/四舍五入.md",
     "posts/cpp/文件的基本操作.md",
-    "posts/cpp/字符数组与字符串.md",
-    "posts/cpp/最值.md",
-    "posts/ascii/index.md",
     "posts/ascii/ascii.png",
-    "Template/Mizuki.md",
     "posts/ascii",
-    "Template/Hexo_posts.md",
-    "README.md",
-    "TODO.md",
-    "README 1.md",
     "images/albums",
     "images",
-    "spec/friends.md",
-    "spec/about.md",
     "spec",
     "posts",
-    "notes/dev/mizuki.md",
     "notes/dev",
-    "notes/app/wezterm.md",
     "IMG_20260101_171012.jpg",
     "file_1764389491033_198.png",
     "img/cover/cpp.jpg",
