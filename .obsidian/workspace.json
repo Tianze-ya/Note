@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/ascii/index.md",
+                "file": "posts/cpp/常用函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "常用函数"
             }
           }
         ]
@@ -169,6 +169,13 @@
   },
   "active": "4b7dab1ddcb99349",
   "lastOpenFiles": [
+    "posts/cpp/冒泡排序.md",
+    "posts/cpp/四舍五入.md",
+    "posts/cpp/文件的基本操作.md",
+    "posts/cpp/字符数组与字符串.md",
+    "posts/cpp/最值.md",
+    "posts/cpp/常用函数.md",
+    "posts/ascii/index.md",
     "posts/ascii/ascii.png",
     "Template/Mizuki.md",
     "posts/ascii",
@@ -197,12 +204,6 @@
     "notes/app/powershell.md",
     "notes/app/scoop.md",
     "_posts/app/ranger.md",
-    "_posts/app/scoop.md",
-    "_posts/app/tmux.md",
-    "_posts/app/powershell.md",
-    "2025-12-06.md",
-    "_posts/app/kitty.md",
-    "_posts/app/clang-format.md",
     "img/cover/cpp.jpg",
     "img/cover/brew.jpg",
     "img/cover/vim.jpg",
@@ -211,7 +212,6 @@
     "posts/kali/ssh-keygen.png",
     "posts/W1R3S/W1R3S-05.png",
     "posts/W1R3S/W1R3S-04.png",
-    "posts/W1R3S/W1R3S-03.png",
     "未命名.base",
     "未命名 2.base",
     "未命名 1.base",
