@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "README 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "README 1"
             }
           }
         ]
@@ -167,12 +167,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b7dab1ddcb99349",
+  "active": "a6de84b9541a101c",
   "lastOpenFiles": [
+    "posts",
     "README.md",
+    "TODO.md",
     "README 1.md",
     "notes/dev/mizuki.md",
-    "TODO.md",
     "notes/dev",
     "Template/Hexo_posts.md",
     "notes/app/wezterm.md",
@@ -197,7 +198,6 @@
     "_posts/app/Atest.md",
     "_posts/app/neovim.md",
     "_posts/app/vim.md",
-    "_posts/app/yazi.md",
     "img/cover/cpp.jpg",
     "img/cover/brew.jpg",
     "img/cover/vim.jpg",
@@ -213,7 +213,6 @@
     "_posts/code/cpp",
     "_posts/code/新建文件夹",
     "_posts/md",
-    "未命名",
     "img/note/app/ranger",
     "未命名.canvas"
   ]
