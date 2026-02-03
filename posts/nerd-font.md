@@ -1,6 +1,6 @@
 ---
 title: Nerd Font
-published: 24-11-17
+published: 2024-11-17
 description: 终端必备的图标字体
 image: ./cover.jpg
 tags:

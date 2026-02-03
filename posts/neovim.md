@@ -1,6 +1,6 @@
 ---
 title: Nvim
-published: 24-08-15
+published: 2024-08-15
 description: 基于Vim的强大编辑器
 image: ./cover.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Zsh
-published: 24-08-11
+published: 2024-08-11
 description: 扩展性强的shell工具
 image: ./cover.jpg
 tags:

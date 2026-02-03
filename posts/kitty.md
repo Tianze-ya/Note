@@ -1,6 +1,6 @@
 ---
 title: Kitty
-published: 24-11-18
+published: 2024-11-18
 description: 快速美观的终端模拟器
 image: ./cover.jpg
 tags:

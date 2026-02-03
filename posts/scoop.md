@@ -1,6 +1,6 @@
 ---
 title: Scoop
-published: 25-12-06
+published: 2025-12-06
 description: Windows命令行软件包管理器
 image: ./cover.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 配置Kali-02
-published: 24-08-04
+published: 2024-08-04
 description: Kali系统用户名密码配置
 image: ./cover.jpg
 tags:

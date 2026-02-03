@@ -1,6 +1,6 @@
 ---
 title: 加速器无法访问Github
-published: 24-12-01
+published: 2024-12-01
 description: 解决加速器无法访问Github
 image: ./cover.jpg
 tags:

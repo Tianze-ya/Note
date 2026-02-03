@@ -1,6 +1,6 @@
 ---
 title: Wezterm
-published: 24-08-11
+published: 2024-08-11
 description: Rust编写的强大终端模拟器
 image: ./cover.jpg
 tags:

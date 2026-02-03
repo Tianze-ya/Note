@@ -1,6 +1,6 @@
 ---
 title: fzf
-published: 24-12-09
+published: 2024-12-09
 description: 模糊文件查找命令行工具
 image: ./cover.jpg
 tags:

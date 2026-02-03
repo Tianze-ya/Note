@@ -1,6 +1,6 @@
 ---
 title: ruff
-published: 25-08-14
+published: 2025-08-14
 description: 快速的Python代码检查工具
 image: ./cover.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 title: yazi
-published: 24-12-21
+published: 2024-12-21
 description: 开箱即用的终端文件管理器
 image: ./cover.jpg
 tags:
