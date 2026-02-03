@@ -55,7 +55,7 @@ sudo apt install ffmpegthumbnailer mediainfo
 
  `~/.config/ranger/scope.sh`中查找/video
  取消这一段的注释
- ![](img/note/app/ranger/scope.png)
+ ![](../../posts/ranger/scope.png)
  
 ### 文本高亮
 ```bash
@@ -83,7 +83,7 @@ sudo apt install lynx elinks
 ### 修改默认编辑器
 打开`rifle.conf`
 找到
-![](img/note/app/ranger/rifle.png)
+![](../../posts/ranger/rifle.png)
 将`${VISUAL :-$EDITOR}`全部修改成自己的编辑器 如vim nvim code
 
 # 快捷键

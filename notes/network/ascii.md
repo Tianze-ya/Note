@@ -9,4 +9,4 @@ cover: img/note/network/ascii.png
 ASCII表
 
 # 表
-![](img/note/network/ascii.png)
+![](../../posts/ascii.png)

@@ -38,7 +38,7 @@ DenyUsers wangwu
 ```bash
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
-![](img/note/system/linux/kali/ssh-keygen.png)
+![](../../posts/kali/ssh-keygen.png)
 把`~/.ssh/id_rsa`移到需要连接sshd的主机上
 把`~/.ssh/id_rsa.pub`移到被连接sshd的主机上并改名为`authorized_keys`
 ## 三、设置开机自启服务

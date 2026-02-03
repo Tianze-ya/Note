@@ -35,10 +35,10 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 *一路回车即可*  密钥被存储在 **~/.ssh/id_...**
 打开[Github](https://github.com)  Settings -> Access -> SSH and GPG keys -> New SSH key
-![](img/note/app/git/git-01.png)
+![](../../posts/git/git-01.png)
 
 将密钥中的文本填入`key`中，点击`Add SHH key`
-![](img/note/app/git/git-02.png)
+![](../../posts/git/git-02.png)
 # 四、创建工作区
 
 如果你创建了一个空仓库，想要把本地代码上传，使用一下命令

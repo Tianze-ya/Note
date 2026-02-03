@@ -167,7 +167,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b7dab1ddcb99349",
+  "active": "a6de84b9541a101c",
   "lastOpenFiles": [
     "Template/Hexo_posts.md",
     "Template/Mizuki.md",
@@ -207,10 +207,10 @@
     "img/cover/vim.jpg",
     "img/cover/neovim.png",
     "img/cover",
-    "img/note/system/linux/kali/ssh-keygen.png",
-    "img/note/network/W1R3S/W1R3S-05.png",
-    "img/note/network/W1R3S/W1R3S-04.png",
-    "img/note/network/W1R3S/W1R3S-03.png",
+    "posts/kali/ssh-keygen.png",
+    "posts/W1R3S/W1R3S-05.png",
+    "posts/W1R3S/W1R3S-04.png",
+    "posts/W1R3S/W1R3S-03.png",
     "未命名.base",
     "未命名 2.base",
     "未命名 1.base",
