@@ -1,7 +1,7 @@
 ---
 title: Ranger
 published: 2024-11-26
-description:
+description: 一款在终端中的文件管理器
 image: ./cover.jpg
 tags:
   - 工具

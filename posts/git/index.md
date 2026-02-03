@@ -1,7 +1,7 @@
 ---
 title: Git 导航
 published: 2024-08-04
-description:
+description: 高效的版本管理工具
 image: ./cover.jpg
 tags:
   - 工具

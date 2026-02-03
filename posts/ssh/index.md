@@ -1,7 +1,7 @@
 ---
 title: SSH
 published: 2024-08-07
-description:
+description: 远程连接工具
 image: ./cover.jpg
 tags:
   - 工具
