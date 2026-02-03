@@ -1,6 +1,6 @@
 ---
 title: W1R3S 1.0.1渗透测试
-published: "{date}"
+published: "\r2024-06-29"
 description:
 image: ./cover.jpg
 tags:

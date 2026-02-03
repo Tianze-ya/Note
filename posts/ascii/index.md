@@ -1,6 +1,6 @@
 ---
 title: ASCII码
-published: "{{date}}"
+published: 2025-07-21
 description:
 image: ./cover.jpg
 tags:

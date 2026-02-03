@@ -1,6 +1,6 @@
 ---
 title: Nmap
-published: "{date}"
+published: "\r2024-06-09"
 description:
 image: ./cover.jpg
 tags:

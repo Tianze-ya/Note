@@ -1,6 +1,6 @@
 ---
 title: SSH
-published: "{date}"
+published: 2024-08-07
 description:
 image: ./cover.jpg
 tags:
