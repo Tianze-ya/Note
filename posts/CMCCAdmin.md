@@ -4,7 +4,8 @@ published: 2024-08-06
 description:
 image: ./cover.jpg
 tags:
-category:
+  - 网络
+category: 教程
 draft: false
 pinned: false
 lang: zh-CN

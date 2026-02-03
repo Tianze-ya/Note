@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/bash.md",
+                "file": "posts/kali-config-00.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bash"
+              "title": "kali-config-00"
             }
           }
         ]
@@ -180,6 +180,14 @@
   },
   "active": "f36eb2ff03eeca98",
   "lastOpenFiles": [
+    "posts/gostty.md",
+    "posts/fzf.md",
+    "posts/fastfetch.md",
+    "posts/DNS.md",
+    "posts/CMCCAdmin.md",
+    "posts/clang-format.md",
+    "posts/brew.md",
+    "posts/bash.md",
     "posts/auto_run.md",
     "posts/Atest.md",
     "posts/W1R3S/index.md",
@@ -203,14 +211,6 @@
     "posts/uv.md",
     "posts/tmux.md",
     "posts/scoop.md",
-    "posts/ruff.md",
-    "posts/powershell.md",
-    "posts/nerd-font.md",
-    "posts/neovim.md",
-    "posts/mizuki.md",
-    "posts/lazygit.md",
-    "posts/kitty.md",
-    "posts/kali-config-02.md",
     "images/albums/background/20221005201441886.jpg",
     "images/albums/background/139991671_p1_master1200.jpg",
     "images/albums/background/139991671_p0_master1200.jpg",
