@@ -167,15 +167,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6de84b9541a101c",
+  "active": "4b7dab1ddcb99349",
   "lastOpenFiles": [
+    "README.md",
+    "README 1.md",
+    "images/albums",
+    "images",
     "spec/friends.md",
     "spec/about.md",
     "spec",
     "posts",
-    "README.md",
     "TODO.md",
-    "README 1.md",
     "notes/dev/mizuki.md",
     "notes/dev",
     "Template/Hexo_posts.md",
@@ -199,7 +201,6 @@
     "_posts/app/kitty.md",
     "_posts/app/clang-format.md",
     "_posts/app/Atest.md",
-    "_posts/app/neovim.md",
     "img/cover/cpp.jpg",
     "img/cover/brew.jpg",
     "img/cover/vim.jpg",
@@ -213,8 +214,6 @@
     "未命名 2.base",
     "未命名 1.base",
     "_posts/code/cpp",
-    "_posts/code/新建文件夹",
-    "_posts/md",
     "未命名.canvas"
   ]
 }
