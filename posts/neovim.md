@@ -1,7 +1,7 @@
 ---
 title: Nvim
 published: 2024-08-15
-description:
+description: 基于Vim的强大编辑器
 image: ./cover.jpg
 tags:
   - Linux

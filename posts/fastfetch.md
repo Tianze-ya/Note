@@ -1,7 +1,7 @@
 ---
 title: Neofetch的可替代品给fastfetch
 published: 2025-03-28
-description:
+description: Neofetch的系统信息替代品
 image: ./cover.jpg
 tags:
   - Linux

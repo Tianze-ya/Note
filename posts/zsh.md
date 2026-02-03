@@ -1,10 +1,12 @@
 ---
 title: Zsh
 published: 2024-08-11
-description:
+description: 扩展性强的shell工具
 image: ./cover.jpg
 tags:
-category:
+  - 工具
+  - Linux
+category: 软件
 draft: false
 pinned: false
 lang: zh-CN

@@ -1,7 +1,7 @@
 ---
 title: 配置Kali-01
 published: 2024-08-04
-description:
+description: Kali系统分辨率换源汉化
 image: ./cover.jpg
 tags:
   - Linux

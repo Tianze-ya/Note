@@ -1,7 +1,7 @@
 ---
 title: Kitty
 published: 2024-11-18
-description:
+description: 快速美观的终端模拟器
 image: ./cover.jpg
 tags:
   - Linux

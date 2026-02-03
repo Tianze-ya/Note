@@ -1,10 +1,11 @@
 ---
 title: Wezterm
 published: 2024-08-11
-description:
+description: Rust编写的强大终端模拟器
 image: ./cover.jpg
 tags:
-category:
+  - 工具
+category: 软件
 draft: false
 pinned: false
 lang: zh-CN

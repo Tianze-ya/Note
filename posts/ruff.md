@@ -1,7 +1,7 @@
 ---
 title: ruff
 published: 2025-08-14
-description:
+description: 快速的Python代码检查工具
 image: ./cover.jpg
 tags:
   - 工具

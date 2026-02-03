@@ -1,7 +1,7 @@
 ---
 title: Vim教程
 published: 2024-08-08
-description:
+description: 强大的键盘操作文本编辑器
 image: ./cover.jpg
 tags:
   - 工具

@@ -1,7 +1,7 @@
 ---
 title: 配置Kali-00
 published: 2024-08-04
-description:
+description: Kali虚拟机下载导入教程
 image: ./cover.jpg
 tags:
   - Linux

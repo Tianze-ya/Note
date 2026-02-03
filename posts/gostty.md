@@ -1,7 +1,7 @@
 ---
 title: Gostty
 published: 2025-03-28
-description:
+description: 美观快速的终端模拟器
 image: ./cover.jpg
 tags:
   - Linux

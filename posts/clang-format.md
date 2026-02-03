@@ -1,7 +1,7 @@
 ---
 title: clang-format
 published: 2025-08-14
-description:
+description: C/C++代码格式化工具
 image: ./cover.jpg
 tags:
   - 编程

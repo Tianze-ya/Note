@@ -1,7 +1,7 @@
 ---
 title: Mizuki
 published: 2026-02-01
-description:
+description: 简约功能丰富的博客主题
 image: ./cover.jpg
 tags:
   - 编程

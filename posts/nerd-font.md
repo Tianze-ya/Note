@@ -1,7 +1,7 @@
 ---
 title: Nerd Font
 published: 2024-11-17
-description:
+description: 终端必备的图标字体
 image: ./cover.jpg
 tags:
   - Linux

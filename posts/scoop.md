@@ -1,7 +1,7 @@
 ---
 title: Scoop
 published: 2025-12-06
-description:
+description: Windows命令行软件包管理器
 image: ./cover.jpg
 tags:
   - 工具

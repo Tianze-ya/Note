@@ -1,7 +1,7 @@
 ---
 title: Tmux
 published: 2024-06-22
-description:
+description: 终端多任务复用管理工具
 image: ./cover.jpg
 tags:
   - Linux

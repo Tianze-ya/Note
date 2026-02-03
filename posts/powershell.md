@@ -1,7 +1,7 @@
 ---
 title: PowerShell7的配置
 published: 2025-12-06
-description:
+description: 跨平台命令行自动化工具
 image: ./cover.jpg
 tags:
   - 工具

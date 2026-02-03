@@ -1,10 +1,11 @@
 ---
 title: yazi
 published: 2024-12-21
-description:
+description: 开箱即用的终端文件管理器
 image: ./cover.jpg
 tags:
-category:
+  - 工具
+category: 软件
 draft: false
 pinned: false
 lang: zh-CN
