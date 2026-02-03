@@ -5,7 +5,7 @@ description:
 image: ./cover.jpg
 tags:
   - 编程
-category:
+category: 代码
 draft: false
 pinned: false
 lang: zh-CN
