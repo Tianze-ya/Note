@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spec/friends.md",
+                "file": "READMETemple.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "friends"
+              "title": "READMETemple"
             }
           }
         ]
@@ -169,6 +169,12 @@
   },
   "active": "4b7dab1ddcb99349",
   "lastOpenFiles": [
+    "README.md",
+    "posts/git/index.md",
+    "posts/ascii/index.md",
+    "posts/ascii/ascii.png",
+    "spec/about.md",
+    "spec/friends.md",
     "images/albums/background/20221005201441886.jpg",
     "images/albums/background/139991671_p1_master1200.jpg",
     "images/albums/background/139991671_p0_master1200.jpg",
@@ -176,7 +182,6 @@
     "images/albums/background/info.json",
     "images/albums/background/新建 文本文档.txt",
     "images/albums/background",
-    "spec/about.md",
     "TODO.md",
     "READMETemple.md",
     "posts/W1R3S/index.md",
@@ -184,7 +189,6 @@
     "posts/ranger/scope.png",
     "posts/ssh/index.md",
     "posts/ssh/ssh-keygen.png",
-    "posts/git/index.md",
     "posts/git/git-02.png",
     "posts/yazi.md",
     "posts/zsh.md",
@@ -204,10 +208,6 @@
     "posts/nmap/nmap-01.png",
     "posts/auto_run.md",
     "posts/ranger/rifle.png",
-    "posts/wezterm.md",
-    "posts/git/git-01.png",
-    "posts/cpp/常用函数.md",
-    "posts/ascii/ascii.png",
     "posts/ascii",
     "images/albums",
     "images",

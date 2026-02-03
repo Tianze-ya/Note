@@ -1,6 +1,6 @@
 ---
 title: ASCII码
-published: "{date}"
+published: "{{date}}"
 description:
 image: ./cover.jpg
 tags:

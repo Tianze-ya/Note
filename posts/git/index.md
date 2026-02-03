@@ -1,6 +1,6 @@
 ---
 title: Git 导航
-published: "{date}"
+published: "{{date}}"
 description:
 image: ./cover.jpg
 tags:
