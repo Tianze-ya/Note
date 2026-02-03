@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/auto_run.md",
+                "file": "posts/bash.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "auto_run"
+              "title": "bash"
             }
           }
         ]
@@ -180,8 +180,10 @@
   },
   "active": "f36eb2ff03eeca98",
   "lastOpenFiles": [
-    "posts/Atest.md",
     "posts/auto_run.md",
+    "posts/Atest.md",
+    "posts/bash.md",
+    "posts/未命名.md",
     "posts/vim.md",
     "Template/Mizuki.md",
     "READMETemple.md",
@@ -201,11 +203,9 @@
     "posts/nmap/index.md",
     "posts/git/index.md",
     "posts/ranger/index.md",
-    "posts/未命名.md",
     "posts/fastfetch.md",
     "posts/fzf.md",
     "posts/kali-config-01.md",
-    "posts/zsh.md",
     "posts/ascii/ascii.png",
     "posts/ascii/未命名.base",
     "spec/未命名.base",
