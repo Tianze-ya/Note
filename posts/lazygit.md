@@ -4,7 +4,9 @@ published: 2024-11-30
 description:
 image: ./cover.jpg
 tags:
-category:
+  - Linux
+  - 工具
+category: 软件
 draft: false
 pinned: false
 lang: zh-CN
