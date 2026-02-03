@@ -4,7 +4,9 @@ published: 2025-08-14
 description:
 image: ./cover.jpg
 tags:
-category:
+  - 工具
+  - 编程
+category: 软件
 draft: false
 pinned: false
 lang: zh-CN

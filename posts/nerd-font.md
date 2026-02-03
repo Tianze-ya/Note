@@ -5,7 +5,7 @@ description:
 image: ./cover.jpg
 tags:
   - Linux
-category:
+category: 其它
 draft: false
 pinned: false
 lang: zh-CN
