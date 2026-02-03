@@ -1,10 +1,15 @@
 ---
 title: ASCII码
-date: 2025-07-21
-categories: 网络
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 ASCII表
 

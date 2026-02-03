@@ -1,11 +1,15 @@
 ---
 title: Neofetch的可替代品给fastfetch
-date: 2025-03-28
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - 工具
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 由于neofetch的停止更新，我们不得不寻找一些替代品，FastFetch 就是极好的替代品
 

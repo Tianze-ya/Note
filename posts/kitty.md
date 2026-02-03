@@ -1,11 +1,15 @@
 ---
 title: Kitty
-date: 2024-11-18
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - linux
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 介绍
 kitty 是一款极好的终端模拟器
 - 快速

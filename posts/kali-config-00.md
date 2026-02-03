@@ -1,12 +1,15 @@
 ---
 title: 配置Kali-00
-date: 2024-08-04
-categories: 系统
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - kali
-  - linux
-cover: img/cover/kali.jpg
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 配置Kali-00
 

@@ -1,12 +1,15 @@
 ---
 title: Tmux
-date: 2024-06-22
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - 工具
-  - linux
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 - 终端复用
 - 多任务管理

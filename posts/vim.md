@@ -1,11 +1,15 @@
 ---
 title: Vim教程
-date: 2024-08-08
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - linux
-cover: img/cover/vim.jpg
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 `Vim 是一款强大的文本编辑器`
 如果你问程序员哪个代码编辑器好用，那么你会得到无数种答案

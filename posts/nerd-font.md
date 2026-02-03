@@ -1,10 +1,15 @@
 ---
 title: Nerd Font
-date: 2024-11-17
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 在使用终端作为生产力工具时 必备的字体
 

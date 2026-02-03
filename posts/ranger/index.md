@@ -1,12 +1,15 @@
 ---
 title: Ranger
-date: 2024-11-26
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - linux
-  - 工具
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 一款在终端中的文件管理器
 

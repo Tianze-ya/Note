@@ -1,10 +1,15 @@
 ---
 title: PowerShell7的配置
-date: 2025-12-06
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 PowerShell 7 是微软开发的跨平台命令行工具，基于.NET Core构建，支持Windows、Linux和macOS系统。它提供了强大的自动化脚本功能、对象管道处理、丰富的模块生态系统，是系统管理和DevOps的重要工具。
 

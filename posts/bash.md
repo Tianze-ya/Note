@@ -1,8 +1,11 @@
 ---
 title: Bash
-date: 2025-04-04
-categories: 软件
+published: "{{date}}"
+description:
+image: ./cover.jpg
 tags:
-  - linux
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---

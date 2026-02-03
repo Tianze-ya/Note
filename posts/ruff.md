@@ -1,12 +1,15 @@
 ---
 title: ruff
-date: 2025-08-14
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - 工具
-  - Python
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 - ⚡️ 比现有的 linter（如 Flake8）和格式化程序（如 Black）快 10-100 倍
 - 🛠️ 支持`pyproject.toml`

@@ -1,11 +1,15 @@
 ---
 title: Homebrew
-date: 2025-03-16
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - linux
-cover: img/cover/brew.jpg
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 一款Like-Unix的通用包管理器
 

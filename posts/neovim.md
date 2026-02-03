@@ -1,11 +1,15 @@
 ---
 title: Nvim
-date: 2024-08-15
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - linux
-cover: img/cover/neovim.png
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 基于Vim所写的一款功能更强大的编辑器
 

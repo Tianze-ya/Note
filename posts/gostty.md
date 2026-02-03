@@ -1,11 +1,15 @@
 ---
 title: Gostty
-date: 2025-03-28
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - linux
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 美观快速开箱即用的终端模拟器
 

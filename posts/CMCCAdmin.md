@@ -1,10 +1,15 @@
 ---
 title: 获取中国移动CMCCAdmin账号密码
-date: 2024-08-06
-categories: 网络
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 获取中国移动CMCCAdmin账号密码
 

@@ -1,11 +1,15 @@
 ---
 title: Git 导航
-date: 2024-08-04
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - 工具
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 一、简介
  ***一款分布式版本控制系统软件***
 **创始人-伟大的Linux之父 林纳斯·本纳第克特·托瓦兹（Linus Benedict Torvalds）**

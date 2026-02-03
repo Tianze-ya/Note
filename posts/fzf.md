@@ -1,12 +1,15 @@
 ---
 title: fzf
-date: 2024-12-09
-categories: 代码
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - linux
-  - 工具
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 一款模糊文件查找器
 [参考](https://www.bilibili.com/video/BV1bJ411s74r)

@@ -1,11 +1,15 @@
 ---
 title: clang-format
-date: 2025-08-14
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - Cpp
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 一款格式化C程序的软件
 

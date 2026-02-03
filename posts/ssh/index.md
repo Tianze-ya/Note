@@ -1,12 +1,15 @@
 ---
 title: SSH
-date: 2024-08-07
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - 工具
-  - linux
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 是一种用于**安全地**访问远程计算机的网络协议
 

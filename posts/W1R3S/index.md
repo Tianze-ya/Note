@@ -1,12 +1,15 @@
 ---
 title: W1R3S 1.0.1渗透测试
-date: 2024-06-29
-categories: 网络
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - 渗透
-  - linux
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 W1R3S 1.0.1渗透测试
 

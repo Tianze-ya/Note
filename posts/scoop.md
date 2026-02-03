@@ -1,10 +1,15 @@
 ---
 title: Scoop
-date: 2025-12-06
-categories:
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 ✦ Scoop 是一个专为 Windows 系统设计的命令行软件包管理器，类似于 macOS 上的 Homebrew 或 Linux 上的apt。它让用户能够轻松地从命令行安装、更新和管理各种开发工具和应用程序，无需手动下载和配置。Scoop 的主要特点包括：
 

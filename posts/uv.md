@@ -1,11 +1,15 @@
 ---
 title: 高效管理python的工具uv
-date: 2025-08-11
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - Python
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 高效管理python的工具uv
 

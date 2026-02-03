@@ -1,12 +1,15 @@
 ---
 title: yazi
-date: 2024-12-21
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - linux
-  - 工具
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 一款开箱即用 扩展性强的终端文件管理器
 

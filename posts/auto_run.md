@@ -1,10 +1,13 @@
 ---
 title: 开机自启
-date: 2023-4-12
-categories: 代码
+published: "{{date}}"
+description:
+image: ./cover.jpg
 tags:
-  - Python
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
 # 简介
 开机自启

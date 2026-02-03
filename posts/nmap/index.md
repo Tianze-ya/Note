@@ -1,13 +1,15 @@
 ---
 title: Nmap
-date: 2024-06-09
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - 工具
-  - linux
-  - 渗透
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 **nmap是一款非常强大的主机发现和端口扫描工具**
 注 以 IP: 172.16.200.131 为目标机器

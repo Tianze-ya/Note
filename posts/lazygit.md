@@ -1,12 +1,15 @@
 ---
 title: lazygit
-date: 2024-11-30
-categories: 软件
+published: "{date}"
+description:
+image: ./cover.jpg
 tags:
-  - linux
-  - 工具
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
+
 # 简介
 高效的Git可视化管理
 

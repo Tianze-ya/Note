@@ -1,9 +1,13 @@
 ---
 title: test
-date: 2025-08-21
-categories:
+published: "{{date}}"
+description:
+image: ./cover.jpg
 tags:
-cover:
+category:
+draft: false
+pinned: false
+lang: zh-CN
 ---
 ## 简介
 这是一个用于测试 **所有** Markdown _内联格式_ 的完整文档。它包含了各种文本格式化元素，用于验证解析器的功能完整性。
