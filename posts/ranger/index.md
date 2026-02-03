@@ -1,6 +1,6 @@
 ---
 title: Ranger
-published: 2024-11-26
+published: 24-11-26
 description:
 image: ./cover.jpg
 tags:

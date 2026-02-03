@@ -1,6 +1,6 @@
 ---
 title: Homebrew
-published: 2025-03-16
+published: 25-03-16
 description: 类Unix系统通用包管理器
 image: ./cover.jpg
 tags:

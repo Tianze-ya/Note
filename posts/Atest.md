@@ -1,6 +1,6 @@
 ---
 title: test
-published: 2025-08-21
+published: 25-08-21
 description: Markdown格式测试文档
 image: ./cover.jpg
 tags:

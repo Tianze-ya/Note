@@ -1,6 +1,6 @@
 ---
 title: lazygit
-published: 2024-11-30
+published: 24-11-30
 description: 高效的Git可视化管理工具
 image: ./cover.jpg
 tags:

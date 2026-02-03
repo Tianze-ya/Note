@@ -1,6 +1,6 @@
 ---
 title: 获取中国移动CMCCAdmin账号密码
-published: 2024-08-06
+published: 24-08-06
 description: 获取光猫超级管理员密码
 image: ./cover.jpg
 tags:

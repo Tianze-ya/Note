@@ -1,6 +1,6 @@
 ---
 title: Neofetch的可替代品给fastfetch
-published: 2026-02-03
+published: 26-02-03
 description: Neofetch的系统信息替代品
 image: ./cover.jpg
 tags:

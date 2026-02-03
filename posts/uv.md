@@ -1,6 +1,6 @@
 ---
 title: 高效管理python的工具uv
-published: 2025-08-11
+published: 25-08-11
 description: 高效的Python包管理工具
 image: ./cover.jpg
 tags:

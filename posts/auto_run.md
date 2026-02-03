@@ -1,6 +1,6 @@
 ---
 title: 开机自启
-published: 2023-4-12
+published: 23-04-12
 description: Python实现Windows开机自启
 image: ./cover.jpg
 tags:
