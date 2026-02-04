@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,6 +180,7 @@
   },
   "active": "f36eb2ff03eeca98",
   "lastOpenFiles": [
+    "images/albums/background/cover.jpg",
     "posts/ascii/ascii.png",
     "posts/git/index.md",
     "posts/nmap/index.md",
