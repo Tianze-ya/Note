@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/ascii/index.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "TODO"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "f36eb2ff03eeca98",
   "lastOpenFiles": [
+    "posts/ascii/index.md",
     "images/albums/background/cover.jpg",
     "posts/ascii/ascii.png",
     "posts/git/index.md",
@@ -187,7 +188,6 @@
     "posts/ranger/index.md",
     "posts/ssh/index.md",
     "posts/W1R3S/index.md",
-    "posts/ascii/index.md",
     "posts/kali-config-01.md",
     "posts/neovim.md",
     "posts/mizuki.md",
@@ -222,7 +222,6 @@
     "posts/ssh/ssh-keygen.png",
     "posts/git/git-02.png",
     "posts/nmap/nmap-01.png",
-    "posts/ranger/rifle.png",
     "posts/ascii",
     "images/albums",
     "images",
