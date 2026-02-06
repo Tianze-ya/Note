@@ -13,4 +13,5 @@ py做后台 websocket通信 node做前端
 # Zen Browser
 
 # 我的世界服务器 整合包 MCSL2  frp Debain  
-()[https://www.mcmod.cn/class/21672.html]
+[GD656Killicon](https://www.mcmod.cn/class/21672.htm)
+
