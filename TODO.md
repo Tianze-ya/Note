@@ -18,3 +18,4 @@ py做后台 websocket通信 node做前端
 [TaCZCOD](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero)
 [AR加速渲染](https://www.mcmod.cn/class/21060.html)
 JEI
+[鼠标手势 (Mouse Tweaks) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1162.html)
