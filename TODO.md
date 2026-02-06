@@ -21,6 +21,7 @@ py做后台 websocket通信 node做前端
 [现代化修复 (ModernFix) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/8714.html)
 [GD656Peek - Minecraft Mod](https://modrinth.com/mod/gd656peek/versions)
 [YetAnotherConfigLib (YACL) - Minecraft Mod](https://modrinth.com/mod/yacl)
+游戏内输入法
 席地而坐
 What are they up to
 IMBlocker
