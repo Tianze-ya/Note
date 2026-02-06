@@ -4,7 +4,7 @@ emac
 nvim config
 
 # blog
-app config to md --py
+config file to md  by py
 # tac
 py做后台 websocket通信 node做前端
 
