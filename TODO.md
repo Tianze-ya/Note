@@ -38,5 +38,4 @@ IMBlocker o
 item zoomer o
 Parcool o
 minihud o
-xero
-san
+xero o
