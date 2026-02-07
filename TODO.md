@@ -19,8 +19,8 @@ py做后台 websocket通信 node做前端
 [鼠标手势 (Mouse Tweaks) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1162.html)o
 [现代化修复 (ModernFix) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/8714.html)o
 [GD656Peek - Minecraft Mod](https://modrinth.com/mod/gd656peek/versions)o
-[YetAnotherConfigLib (YACL) - Minecraft Mod](https://modrinth.com/mod/yacl)
-[Raw's Visual Keybinder - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/15145.html)
+[YetAnotherConfigLib (YACL) - Minecraft Mod](https://modrinth.com/mod/yacl)o
+[Raw's Visual Keybinder - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/15145.html)o
 [Simple Voice Chat - Minecraft Plugin](https://modrinth.com/plugin/simple-voice-chat)
 https://www.curseforge.com/minecraft/customization/delta-force
 https://curseforge.com/minecraft/mc-mods/tacz-lesraisins-tactical-equipements
