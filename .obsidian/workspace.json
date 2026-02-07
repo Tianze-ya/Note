@@ -33,8 +33,7 @@
               "title": "版本说明 1.11.7"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8116b8870abc374",
+  "active": "f36eb2ff03eeca98",
   "lastOpenFiles": [
     "posts/ascii/index.md",
     "images/albums/background/cover.jpg",
