@@ -17,8 +17,8 @@ py做后台 websocket通信 node做前端
 [[TaCZ]永恒枪械工坊：零](https://www.mcmod.cn/class/14980.html)o
 [AR加速渲染](https://www.mcmod.cn/class/21060.html)o
 [鼠标手势 (Mouse Tweaks) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1162.html)o
-[现代化修复 (ModernFix) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/8714.html)
-[GD656Peek - Minecraft Mod](https://modrinth.com/mod/gd656peek/versions)
+[现代化修复 (ModernFix) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/8714.html)o
+[GD656Peek - Minecraft Mod](https://modrinth.com/mod/gd656peek/versions)o
 [YetAnotherConfigLib (YACL) - Minecraft Mod](https://modrinth.com/mod/yacl)
 [Raw's Visual Keybinder - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/15145.html)
 [Simple Voice Chat - Minecraft Plugin](https://modrinth.com/plugin/simple-voice-chat)
