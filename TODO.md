@@ -30,10 +30,10 @@ https://www.curseforge.com/minecraft/customization/delta-force o
 https://curseforge.com/minecraft/mc-mods/tacz-lesraisins-tactical-equipements o
 [[TACZ] DeltaForce Melee Pack - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/deltaforce-melee-pack) o
 游戏内输入法 o
-席地而坐
+席地而坐 o
 playerAnimator o
 Oculus o
-What are they up to
+What are they up to o
 IMBlocker
 item zoomer
 JEI
