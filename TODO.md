@@ -36,7 +36,7 @@ Oculus o
 What are they up to o
 IMBlocker o
 item zoomer o
-Parcool
+Parcool o
 LesRaisins
 minihud
 xero
