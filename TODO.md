@@ -34,7 +34,7 @@ https://curseforge.com/minecraft/mc-mods/tacz-lesraisins-tactical-equipements o
 playerAnimator o
 Oculus o
 What are they up to o
-IMBlocker
+IMBlocker o
 item zoomer
 JEI
 Parcool
