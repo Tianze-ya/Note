@@ -23,6 +23,8 @@ py做后台 websocket通信 node做前端
 [YetAnotherConfigLib (YACL) - Minecraft Mod](https://modrinth.com/mod/yacl)
 [Raw's Visual Keybinder - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/15145.html)
 [Simple Voice Chat - Minecraft Plugin](https://modrinth.com/plugin/simple-voice-chat)
+https://www.curseforge.com/minecraft/customization/delta-force
+https://curseforge.com/minecraft/mc-mods/tacz-lesraisins-tactical-equipements
 游戏内输入法
 席地而坐
 What are they up to
