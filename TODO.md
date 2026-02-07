@@ -35,8 +35,7 @@ playerAnimator o
 Oculus o
 What are they up to o
 IMBlocker o
-item zoomer
-JEI
+item zoomer o
 Parcool
 LesRaisins
 minihud
