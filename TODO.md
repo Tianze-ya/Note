@@ -15,7 +15,7 @@ py做后台 websocket通信 node做前端
 # 我的世界服务器 整合包 MCSL2  frp Debain  
 [GD656Killicon](https://www.mcmod.cn/class/21672.htm)o
 [[TaCZ]永恒枪械工坊：零](https://www.mcmod.cn/class/14980.html)o
-[AR加速渲染](https://www.mcmod.cn/class/21060.html)
+[AR加速渲染](https://www.mcmod.cn/class/21060.html)o
 [鼠标手势 (Mouse Tweaks) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1162.html)
 [现代化修复 (ModernFix) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/8714.html)
 [GD656Peek - Minecraft Mod](https://modrinth.com/mod/gd656peek/versions)
@@ -28,7 +28,7 @@ https://curseforge.com/minecraft/mc-mods/tacz-lesraisins-tactical-equipements
 游戏内输入法
 席地而坐
 playerAnimator o
-Oculus
+Oculus o
 What are they up to
 IMBlocker
 item zoomer
