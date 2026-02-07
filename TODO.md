@@ -27,7 +27,7 @@ py做后台 websocket通信 node做前端
 [YetAnotherConfigLib (YACL) - Minecraft Mod](https://modrinth.com/mod/yacl)o
 [Simple Voice Chat - Minecraft Plugin](https://modrinth.com/plugin/simple-voice-chat)o
 https://www.curseforge.com/minecraft/customization/delta-force o
-https://curseforge.com/minecraft/mc-mods/tacz-lesraisins-tactical-equipements
+https://curseforge.com/minecraft/mc-mods/tacz-lesraisins-tactical-equipements o
 [[TACZ] DeltaForce Melee Pack - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/deltaforce-melee-pack)
 游戏内输入法
 席地而坐
