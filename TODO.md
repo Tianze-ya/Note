@@ -25,6 +25,7 @@ py做后台 websocket通信 node做前端
 [Simple Voice Chat - Minecraft Plugin](https://modrinth.com/plugin/simple-voice-chat)
 https://www.curseforge.com/minecraft/customization/delta-force
 https://curseforge.com/minecraft/mc-mods/tacz-lesraisins-tactical-equipements
+[[TACZ] DeltaForce Melee Pack - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/deltaforce-melee-pack)
 游戏内输入法
 席地而坐
 What are they up to
