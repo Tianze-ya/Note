@@ -27,7 +27,8 @@ https://curseforge.com/minecraft/mc-mods/tacz-lesraisins-tactical-equipements
 [[TACZ] DeltaForce Melee Pack - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/deltaforce-melee-pack)
 游戏内输入法
 席地而坐
-playerAnimator
+playerAnimator o
+Oculus
 What are they up to
 IMBlocker
 item zoomer
