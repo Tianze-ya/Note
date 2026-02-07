@@ -25,7 +25,7 @@ py做后台 websocket通信 node做前端
 [现代化修复 (ModernFix) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/8714.html)o
 [GD656Peek - Minecraft Mod](https://modrinth.com/mod/gd656peek/versions)o
 [YetAnotherConfigLib (YACL) - Minecraft Mod](https://modrinth.com/mod/yacl)o
-[Simple Voice Chat - Minecraft Plugin](https://modrinth.com/plugin/simple-voice-chat)
+[Simple Voice Chat - Minecraft Plugin](https://modrinth.com/plugin/simple-voice-chat)o
 https://www.curseforge.com/minecraft/customization/delta-force
 https://curseforge.com/minecraft/mc-mods/tacz-lesraisins-tactical-equipements
 [[TACZ] DeltaForce Melee Pack - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/deltaforce-melee-pack)
