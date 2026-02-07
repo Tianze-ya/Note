@@ -37,6 +37,6 @@ What are they up to o
 IMBlocker o
 item zoomer o
 Parcool o
-minihud
+minihud o
 xero
 san
