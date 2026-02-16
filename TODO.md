@@ -12,7 +12,7 @@ py做后台 websocket通信 node做前端
 java server springboot
 go tui Bubble Tea
 py tui Textual
-.net gui
+.net gui Avalonia UI/NET MAUI
 
 # Zen Browser
 
