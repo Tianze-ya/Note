@@ -8,7 +8,10 @@ config file to md  by py
 # tac
 py做后台 websocket通信 node做前端
 
-# .net 项目
+# tac项目
+java server
+go tui
+.net gui
 
 # Zen Browser
 
