@@ -9,8 +9,9 @@ config file to md  by py
 py做后台 websocket通信 node做前端
 
 # tac项目
-java server
-go tui
+java server springboot
+go tui Bubble Tea
+py tui Textual
 .net gui
 
 # Zen Browser
