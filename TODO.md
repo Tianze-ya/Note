@@ -11,12 +11,13 @@ config file to md  by py
 py做后台 websocket通信 node做前端
 
 # tac项目
-java server springboot
+java server springboot websocket Porgra 
 go tui Bubble Tea
 py tui Textual
 .net gui Avalonia UI/NET MAUI
 
 # River
+阿里云
 [大模型服务平台百炼控制台](https://bailian.console.aliyun.com/cn-beijing/?tab=api#/api/?type=model&url=2862677)
 我要头衔
 ai对话管理
