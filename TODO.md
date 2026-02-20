@@ -21,6 +21,7 @@ py tui Textual
 我要头衔
 ai对话管理
 喵尾
+[[>=4.3.0][V1.0.6]ChatAnalyzer —— 订阅制定时聊天数据统计插件-插件发布论坛-项目发布-NaPlugCat-答疑插件发布](https://www.ityzs.com/forum-post/123.html)
 
 
 # Zen Browser
