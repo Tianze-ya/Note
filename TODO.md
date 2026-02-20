@@ -19,6 +19,8 @@ py tui Textual
 # River
 [大模型服务平台百炼控制台](https://bailian.console.aliyun.com/cn-beijing/?tab=api#/api/?type=model&url=2862677)
 我要头衔
+ai对话管理
+喵尾
 
 
 # Zen Browser
