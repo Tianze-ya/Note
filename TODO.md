@@ -16,11 +16,14 @@ go tui Bubble Tea
 py tui Textual
 .net gui Avalonia UI/NET MAUI
 
+# River
+[大模型服务平台百炼控制台](https://bailian.console.aliyun.com/cn-beijing/?tab=api#/api/?type=model&url=2862677)
+我要头衔
+
+
 # Zen Browser
 
 # 我的世界服务器 整合包 MCSL2  frp Debain  
-
-
 [Raw's Visual Keybinder - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/15145.html)
 
 
@@ -45,6 +48,8 @@ item zoomer o
 Parcool o
 minihud o
 xero o
+
+# lx api
 
 ```
 {"type":"playListPart_v2","data":{"id":"love","name":"我的收藏","list":[{"id":"wy_1403318151","name":"把回忆拼好给你","singer":"王贰浪","source":"wy","interval":"06:21","meta":{"songId":1403318151,"albumName":"把回忆拼好给你","picUrl":"http://p2.music.126.net/CBx2K_jEN3SNWwYztagPPw==/109951164485969446.jpg","qualitys":[{"type":"128k","size":"5.81 MB"},{"type":"320k","size":"14.54 MB"},{"type":"flac","size":"40.18 MB"}],"_qualitys":{"flac":{"size":"40.18 MB"},"320k":{"size":"14.54 MB"},"128k":{"size":"5.81 MB"}},"albumId":83305009}},{"id":"wy_5235487","name":"雨爱","singer":"杨丞琳","source":"wy","interval":"04:20","meta":{"songId":5235487,"albumName":"为日本加油","picUrl":"http://p1.music.126.net/poVOuaCxrC0HB_zPpvXEiQ==/109951163115263393.jpg","qualitys":[{"type":"128k","size":"3.98 MB"},{"type":"320k","size":"9.94 MB"},{"type":"flac","size":"32.19 MB"}],"_qualitys":{"flac":{"size":"32.19 MB"},"320k":{"size":"9.94 MB"},"128k":{"size":"3.98 MB"}},"albumId":510905}}]}}
