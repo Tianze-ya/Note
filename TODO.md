@@ -20,7 +20,6 @@ py tui Textual
 阿里云
 [大模型服务平台百炼控制台](https://bailian.console.aliyun.com/cn-beijing/?tab=api#/api/?type=model&url=2862677)
 ai对话管理
-[ChatAnalyzer —— 订阅制定时聊天数据统计插件](https://www.ityzs.com/forum-post/123.html)
 [NcatBot3.8.8小鹿AI插件-预设雌小鬼设定](https://www.ityzs.com/forum-post/114.html)
 
 # Zen Browser
