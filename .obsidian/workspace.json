@@ -33,8 +33,7 @@
               "title": "版本说明 1.12.7"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb668026dfa44f63",
+  "active": "f36eb2ff03eeca98",
   "lastOpenFiles": [
     "TODO.md",
     "posts/ascii/index.md",
