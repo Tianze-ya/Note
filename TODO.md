@@ -16,10 +16,12 @@ go tui Bubble Tea
 py tui Textual
 .net gui Avalonia UI/NET MAUI
 
+# san
+flash
+
 # River
 阿里云
 ai对话管理
-[NcatBot3.8.8小鹿AI插件-预设雌小鬼设定](https://www.ityzs.com/forum-post/114.html)
 
 # Zen Browser
 
