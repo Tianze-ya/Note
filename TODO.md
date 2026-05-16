@@ -17,7 +17,12 @@ py tui Textual
 .net gui Avalonia UI/NET MAUI
 
 # san
-flash
+flash msgline
+Excuse Func
+Getfile Func
+hotfix
+heartbeat
+cmd
 
 # River
 阿里云
