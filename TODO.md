@@ -3,8 +3,6 @@ dwm
 emac
 nvim config
 
-# VidBee
-
 # blog
 config file to md  by py
 
