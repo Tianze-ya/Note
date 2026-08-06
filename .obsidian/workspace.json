@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "spec/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "about"
             }
           }
         ]
@@ -182,12 +182,12 @@
   },
   "active": "f36eb2ff03eeca98",
   "lastOpenFiles": [
-    "posts/Atest.md",
-    "Template/Mizuki.md",
-    "Template/Hexo_posts.md",
     "spec/friends.md",
     "spec/about.md",
     "TODO.md",
+    "posts/Atest.md",
+    "Template/Mizuki.md",
+    "Template/Hexo_posts.md",
     "posts/CMCCAdmin.md",
     "READMETemple.md",
     "posts/auto_run.md",
