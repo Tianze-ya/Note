@@ -3,9 +3,6 @@ dwm
 emac
 nvim config
 
-# blog
-config file to md  by py
-
 # tac项目
 py做后台 websocket通信 node做前端
 java server springboot websocket PorgraSQL 
