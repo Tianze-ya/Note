@@ -28,6 +28,7 @@ cmd
 整合包 录视频  齿轮盛宴 老实况
 
 # 我的世界建筑
+4486064
 
 # 博客
 [LyraVoid/Mizuki](https://github.com/LyraVoid/Mizuki)
