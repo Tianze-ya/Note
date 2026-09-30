@@ -30,5 +30,5 @@ cmd
 # 我的世界建筑
 
 # 博客
-[LyraVoid/Mizuki: Next-Gen Material Design 3 Blog Theme (Astro Powered)](https://github.com/LyraVoid/Mizuki)
-[LyraVoid/Shirone: An expressive, anime-inspired blog theme built on Material 3 Expressive, Astro 7, and Svelte 5](https://github.com/LyraVoid/Shirone)
+[LyraVoid/Mizuki](https://github.com/LyraVoid/Mizuki)
+[LyraVoid/Shirone](https://github.com/LyraVoid/Shirone)
