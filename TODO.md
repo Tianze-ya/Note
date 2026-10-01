@@ -30,6 +30,11 @@ cmd
 # 我的世界建筑
 4486064
 8815538
+8717172
+8415764
+8325115
+6267008
+wu'tu
 
 # 博客
 [LyraVoid/Mizuki](https://github.com/LyraVoid/Mizuki)
