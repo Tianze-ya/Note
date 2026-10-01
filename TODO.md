@@ -28,16 +28,6 @@ cmd
 整合包 录视频  齿轮盛宴 老实况
 
 # 我的世界建筑
-
-
-
-
-
-乌托邦 8448942
-
-
-
-
 # 博客
 [LyraVoid/Mizuki](https://github.com/LyraVoid/Mizuki)
 [LyraVoid/Shirone](https://github.com/LyraVoid/Shirone)
